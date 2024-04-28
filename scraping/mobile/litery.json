@@ -1,0 +1,574 @@
+{
+	"categories": [],
+	"items": [{
+		"id": 1194,
+		"lang": "pl",
+		"title": "ALFABET PJM - CAŁY",
+		"description": "",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/ALFABET.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1312,
+		"lang": "pl",
+		"title": "A",
+		"description": "",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/A.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1313,
+		"lang": "pl",
+		"title": "Ą",
+		"description": "",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%84.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7044,
+		"lang": "pl",
+		"title": "Ą - wariant 2",
+		"description": "Ą - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%84%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1314,
+		"lang": "pl",
+		"title": "B",
+		"description": "B",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/B.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1315,
+		"lang": "pl",
+		"title": "C",
+		"description": "C",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/C.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1318,
+		"lang": "pl",
+		"title": "Ć",
+		"description": "Ć",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%86.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7045,
+		"lang": "pl",
+		"title": "Ć - wariant 2",
+		"description": "Ć - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%86%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1316,
+		"lang": "pl",
+		"title": "CH",
+		"description": "CH",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/CH.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1317,
+		"lang": "pl",
+		"title": "CZ",
+		"description": "CZ",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/CZ.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1319,
+		"lang": "pl",
+		"title": "D",
+		"description": "D",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/D.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1320,
+		"lang": "pl",
+		"title": "E",
+		"description": "E",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/E.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1321,
+		"lang": "pl",
+		"title": "Ę",
+		"description": "",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%98.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7046,
+		"lang": "pl",
+		"title": "Ę - wariant 2",
+		"description": "Ę - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C4%98%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1322,
+		"lang": "pl",
+		"title": "F",
+		"description": "",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/f.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7047,
+		"lang": "pl",
+		"title": "F - wariant 2",
+		"description": "F - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/F%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1323,
+		"lang": "pl",
+		"title": "G",
+		"description": "G",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/G.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7048,
+		"lang": "pl",
+		"title": "G - wariant 2",
+		"description": "G - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/G%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1324,
+		"lang": "pl",
+		"title": "H",
+		"description": "H",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/H.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1325,
+		"lang": "pl",
+		"title": "I",
+		"description": "I",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/I.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1327,
+		"lang": "pl",
+		"title": "J",
+		"description": "J",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/J.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7049,
+		"lang": "pl",
+		"title": "J - wariant 2",
+		"description": "J - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/J%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1326,
+		"lang": "pl",
+		"title": "K",
+		"description": "K",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/K.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1328,
+		"lang": "pl",
+		"title": "L",
+		"description": "L",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/L.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1329,
+		"lang": "pl",
+		"title": "Ł",
+		"description": "Ł",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%81.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1330,
+		"lang": "pl",
+		"title": "M",
+		"description": "M",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/M.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7050,
+		"lang": "pl",
+		"title": "M - wariant 2",
+		"description": "M - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/M%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1331,
+		"lang": "pl",
+		"title": "N",
+		"description": "N",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/N.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7051,
+		"lang": "pl",
+		"title": "N - wariant 2",
+		"description": "N - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/N%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7052,
+		"lang": "pl",
+		"title": "Ń",
+		"description": "Ń",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%83.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1332,
+		"lang": "pl",
+		"title": "Ń - wariant 2",
+		"description": "Ń - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%83%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1333,
+		"lang": "pl",
+		"title": "O",
+		"description": "O",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/O.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1334,
+		"lang": "pl",
+		"title": "Ó",
+		"description": "Ó",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C3%93.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7053,
+		"lang": "pl",
+		"title": "Ó - wariant 2",
+		"description": "Ó - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C3%93%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1335,
+		"lang": "pl",
+		"title": "P",
+		"description": "P",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/P.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7054,
+		"lang": "pl",
+		"title": "P - wariant 2",
+		"description": "P - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/P%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1336,
+		"lang": "pl",
+		"title": "R",
+		"description": "R",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/R.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1337,
+		"lang": "pl",
+		"title": "RZ",
+		"description": "RZ",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/RZ.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1338,
+		"lang": "pl",
+		"title": "S",
+		"description": "S",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/S.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1340,
+		"lang": "pl",
+		"title": "Ś",
+		"description": "Ś",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%9A.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7055,
+		"lang": "pl",
+		"title": "Ś - wariant 2",
+		"description": "Ś - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%9A%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1339,
+		"lang": "pl",
+		"title": "SZ",
+		"description": "SZ",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/SZ.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1341,
+		"lang": "pl",
+		"title": "T",
+		"description": "T",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/T.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7056,
+		"lang": "pl",
+		"title": "T - wariant 2",
+		"description": "T - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/T%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7057,
+		"lang": "pl",
+		"title": "T - wariant 3",
+		"description": "T - wariant 3",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/T%20-%20wariant%203.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1342,
+		"lang": "pl",
+		"title": "U",
+		"description": "U",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/U.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1343,
+		"lang": "pl",
+		"title": "W",
+		"description": "W",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/w.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1344,
+		"lang": "pl",
+		"title": "Y",
+		"description": "Y",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/y.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1345,
+		"lang": "pl",
+		"title": "Z",
+		"description": "Z",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/Z.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1346,
+		"lang": "pl",
+		"title": "Ź",
+		"description": "Ź",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%B9.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1347,
+		"lang": "pl",
+		"title": "Ż",
+		"description": "Ż",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/%C5%BB.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1348,
+		"lang": "pl",
+		"title": "Q",
+		"description": "Q",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/Q.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7058,
+		"lang": "pl",
+		"title": "Q - wariant 2",
+		"description": "Q - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/Q%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7059,
+		"lang": "pl",
+		"title": "Q - wariant 3",
+		"description": "Q - wariant 3",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/Q%20-%20wariant%203.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1349,
+		"lang": "pl",
+		"title": "V",
+		"description": "V",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/v.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 1350,
+		"lang": "pl",
+		"title": "X",
+		"description": "X",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/x.mp4",
+			"description": ""
+		}
+	}, {
+		"id": 7060,
+		"lang": "pl",
+		"title": "X - wariant 2",
+		"description": "X - wariant 2",
+		"latitude": false,
+		"media": {
+			"url": "https://panel3.qrtag.mobi/fotki/18/files/ALFABET/X%20-%20wariant%202.mp4",
+			"description": ""
+		}
+	}]
+}
